@@ -1,5 +1,5 @@
 # Ticket-Reservation-System-Vuln
-This is a repo for disclosure of a vulnerability in Ticket Reservation Syste
+This is a repo for disclosure of a vulnerability in Ticket Reservation System
 # Stored XSS Vulnerability in itsourcecode Ticket Reservation System 1.0
 ## Overview
 
